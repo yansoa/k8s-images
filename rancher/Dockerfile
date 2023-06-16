@@ -1,0 +1,1 @@
+FROM docker.io/rancher/rancher:latest
