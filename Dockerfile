@@ -1,0 +1,1 @@
+FROM wrangler.cattle.io/rke-cluster-remove:latest
