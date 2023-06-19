@@ -1,1 +1,0 @@
-FROM wrangler.cattle.io/cloud-config-secret-remover:latest

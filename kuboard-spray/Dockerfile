@@ -1,0 +1,1 @@
+FROM docker.io/eipwork/kuboard-spray:latest-amd64

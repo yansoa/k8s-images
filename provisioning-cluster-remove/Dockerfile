@@ -1,1 +1,0 @@
-FROM wrangler.cattle.io/provisioning-cluster-remove:latest
